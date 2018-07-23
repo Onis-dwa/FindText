@@ -170,7 +170,6 @@ namespace FindText
 			FindTextBox.Enabled = true;
 			TemplateNameTextBox.Enabled = true;
 			InFileCheckBox.Enabled = true;
-			MultiThreadCheckBox.Enabled = true;
 			StartButton.Enabled = true;
 			PathButton.Enabled = true;
 		}
@@ -180,7 +179,6 @@ namespace FindText
 			FindTextBox.Enabled = false;
 			TemplateNameTextBox.Enabled = false;
 			InFileCheckBox.Enabled = false;
-			MultiThreadCheckBox.Enabled = false;
 			StartButton.Enabled = false;
 			PathButton.Enabled = false;
 		}
